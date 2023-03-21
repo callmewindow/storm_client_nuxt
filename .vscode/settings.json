@@ -1,0 +1,36 @@
+{
+  "cSpell.words": [
+    //vue
+    "vnode",
+    "vdom",
+
+    // plugin
+    "pinia",
+    "vuex",
+    "vuetify",
+    "echarts",
+    "vueuse",
+    "iconfont",
+    "nuxt",
+    "tailwindcss",
+
+    // special
+    "lolipop",
+
+    // js
+    "typeof",
+    "instanceof",
+    "concat",
+    "mousedown",
+    "mouseup",
+    "mousemove",
+    "mouseout",
+    "keydown",
+    "keyup",
+    "keypress",
+    // ts
+    "keyof",
+    // abbreviation
+    "notif"
+  ]
+}
